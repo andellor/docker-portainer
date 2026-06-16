@@ -23,3 +23,7 @@ Then run with one of the available arguments:
 ./setup.sh install-portainer-agent
 ./setup.sh update-portainer-agent
 ```
+
+## Roadmap
+
+- Auto-install Docker if not detected when running `install-portainer` or `install-portainer-agent`
